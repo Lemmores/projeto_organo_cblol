@@ -5,8 +5,6 @@
 
 <br>
 
-<p>Vídeo 1: Desktop</p>
-<p align="center"><img src="https://user-images.githubusercontent.com/108142878/190460210-a9bc4aa8-7c1b-4b95-a501-46f1658db10d.gif" width: 1000></p>
 
 <br>
 <h2 align="center">:hourglass: Status do projeto </h2>
@@ -39,5 +37,4 @@
 <br>
 <h2 align="center"> :heavy_check_mark: Pessoas desenvolvedoras do projeto </h2>
 
-| <img src="https://user-images.githubusercontent.com/108142878/183316759-e46fcec3-8594-4aca-b030-66b1e07263e0.jpg" width=115><br><sub>Ana Carolina Perdigão</sub> |  <img src="https://user-images.githubusercontent.com/108142878/185829643-01d1fc55-a657-4966-a2a4-b06e3194a86c.png" width=115><br><sub>Equipe Alura</sub> |
-| :---: | :---: |
+
