@@ -14,7 +14,7 @@
 
 <h2 align="center">:hammer: Funcionalidades do projeto </h2>
 
-- ``Funcionalidade 1:`` Cadastrar um novo colaborador com nome, cargo e foto em sua respectiva área de atuação, acrescentando então um card na área selecionada.
+- ``Funcionalidade 1:`` Cadastrar um novo torcedor de lol com nome, cidade e foto em sua respectiva área de atuação, acrescentando então um card na área selecionada.
 
 
 <br>
@@ -27,14 +27,10 @@
 
 
 <br>
-<h2 align="center"> :file_folder: Acesso ao projeto </h2>
-<p> Você pode acessar o projeto final clicando aqui: https://organo-alura-three.vercel.app/ </p>
-<br>
+
 <h2 align="center"> :computer: Tecnologias utilizadas </h2>
 
 - ``React``
 
-<br>
-<h2 align="center"> :heavy_check_mark: Pessoas desenvolvedoras do projeto </h2>
 
 
