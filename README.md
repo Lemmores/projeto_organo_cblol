@@ -1,7 +1,7 @@
 <h1 align="center"> Organograma </h1>
 
 <h2 align="center">:page_facing_up: Descrição do projeto </h2>
-<p>Essa aplicação foi desenvolvida com o objetivo de cadastrar novos colaboradores no organograma da escola Alura em suas respectivas áreas de atuação.</p>
+<p>Essa aplicação foi desenvolvida com o objetivo de cadastrar novos torcedores no organograma de times do CBLOL.</p>
 
 <br>
 
