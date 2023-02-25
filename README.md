@@ -2,7 +2,7 @@
 
 <h2 align="center">:page_facing_up: Descrição do projeto </h2>
 <p>Essa aplicação foi desenvolvida com o objetivo de cadastrar novos torcedores no organograma de times do CBLOL.</p>
-![image](https://user-images.githubusercontent.com/108501838/221373471-6fe638f7-ba61-49c4-b034-2f246401fe7d.png)
+
 
 <br>
 
